@@ -1,7 +1,6 @@
 # Ajit-Demo
 These is my first repository.
 <br>
-Author-Ajit Katore.
+Author-Ajit Katore (csk foundation).
 <br>
-github project.
 
